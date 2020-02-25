@@ -4,7 +4,6 @@
 
 - Retrospective about module II // Let's talk and love each other! 🚀
 - React day (and week actually) with intro, JSX, elements, props and...
-- Some OOP foundations talking. Nice!
 
 ## Activities
 
