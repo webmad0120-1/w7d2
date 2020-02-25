@@ -13,7 +13,7 @@
 
 # Today - day w7d2
 
-- Irongenerate flavour for React -> create-react-app
+- Install create-react-app
 - Stateful components
 - Lists, let's loop!
 - Conditional rendering. Bye bye Mr. Handlebars 🥀
