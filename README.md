@@ -17,16 +17,11 @@
 - Stateful components
 - Lists, let's loop!
 - Conditional rendering. Bye bye Mr. Handlebars 🥀
+- Micro learning 15.30 Virtual reality
 
 ## Activities
 
 - Ironcontacts - let's test setState more in depth
-
-# Next - day w7d3
-
-- Forms
-- Component live cycles
-- Routing - detect URL changes and respond dynamically
 
 # Goals
 
