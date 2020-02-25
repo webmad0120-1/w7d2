@@ -1,0 +1,9 @@
+.color-slider {
+    border: 1px solid black;
+}
+
+.color-slider .color {
+    height: 50px;
+    width: 50px;
+    border:1px solid black;
+}

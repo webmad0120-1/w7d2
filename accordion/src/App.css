@@ -1,0 +1,34 @@
+.color-slider {
+  margin-bottom: 20px;
+}
+
+.color-slider:nth-child(2) {
+  border:1px solid red;
+}
+
+.product-grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.product-grid .product{
+  margin-right: 20px;
+}
+
+.product-grid .product:last-child{
+  margin-right: 0;
+}
+
+nav {
+  margin: 40px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav button {
+  font-size: 40px;
+  margin-right: 20px;
+}
